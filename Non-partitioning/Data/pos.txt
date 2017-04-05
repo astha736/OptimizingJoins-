@@ -1,0 +1,17 @@
+10001	Senior Manager
+10002	Staff
+10003	Senior Engineer
+10004	Engineer
+10005	Senior Staff
+10006	Senior Engineer
+10009	Senior Staff
+10010	Senior Engineer
+10031	Engineer
+10035	Senior Engineer
+10036	Senior Staff
+10037	Engineer
+10038	Senior Staff
+10039	Senior Staff
+10040	Senior Engineer
+10070	Engineer
+10080	Manager
